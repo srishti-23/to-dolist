@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: hsl(190, 46%, 33%);
+  justify-content: center;
+  text-align: center;
+ 
+}
+
+
+.App {
+  text-align: center;
+  margin-top: 20px;
+  box-sizing: border-box;
+  padding-top: 20px;
+  justify-content: center;
+  
+}
+button {
+  width: 10%;
+ 
+  background-color: #007BFF;
+  cursor: pointer;
+  justify-content: center;
+  padding: auto;
+}
+
+
+button:hover {
+  background-color: #19ea82;
+}
+
+
+
